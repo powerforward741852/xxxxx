@@ -25,7 +25,7 @@
     NSLog(@"xx22");
 
     NSLog(@"xxx2");
-
+    NSLog(@"老子好累啊");
     return YES;
 }
 
