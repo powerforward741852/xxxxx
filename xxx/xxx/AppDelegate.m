@@ -17,7 +17,11 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
+
     NSLog(@"www11111111111111");
+
+    NSLog(@"xxx11111111111111");
+
     return YES;
 }
 
