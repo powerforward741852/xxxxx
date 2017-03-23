@@ -11,6 +11,7 @@
 @interface ViewController : UIViewController
 @property(strong,nonatomic)NSArray* aarr;
 
+@property(strong,nonatomic)NSArray* arr2;
 
 @end
 
