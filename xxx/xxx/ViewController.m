@@ -25,6 +25,7 @@
     NSLog(@"gitxxxxxxxxxxwwwwwww");
 
     NSLog(@"回滚操作");
+    NSLog(@"回滚操作2");
 }
 
 
