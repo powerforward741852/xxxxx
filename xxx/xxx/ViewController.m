@@ -26,14 +26,18 @@
 
     NSLog(@"回滚操作");
     NSLog(@"回滚操作2");
+
 NSLog(@"回滚操作3");
+NSLog(@"回滚操作4");    
     
+
 
 
     NSLog(@"1");
     NSLog(@"2");
     NSLog(@"3");
     NSLog(@"4");
+
 
 
 }
